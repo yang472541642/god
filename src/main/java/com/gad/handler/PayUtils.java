@@ -7,7 +7,6 @@ import com.gad.common.HttpHelper;
 import com.gad.common.MoneyTypeEnum;
 import com.gad.domin.AutoPay;
 import com.gad.domin.PlayTypeEnum;
-import com.google.common.collect.Maps;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -17,6 +16,7 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -122,7 +122,7 @@ public class PayUtils {
         autoPay.setNper(nextStr);
         logger.info("获取的期数：{}", nextStr);
 
-        Map<String, String> autoPayParams = Maps.newLinkedHashMap();
+        Map<String, String> autoPayParams = new HashMap<>();
 
         // 定位胆 复式
         autoPayParams.put("sscType", "cqssc");

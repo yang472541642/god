@@ -10,13 +10,13 @@ import com.gad.domin.dto.PeriodNumberDTO;
 import com.gad.domin.dto.PlanConfig;
 import com.gad.domin.dto.PlanDetailDTO;
 import com.gad.service.CpxzsBizService;
-import com.google.common.collect.Lists;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;
 
 import java.io.IOException;
 import java.math.BigDecimal;
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.UUID;
@@ -205,7 +205,7 @@ public class PlayHandler implements Runnable {
         Integer[] currentNumberArr = currentNumberInfo.getCurrentNumberArr();
         PlayTypeEnum playTypeEnum = autoPay.getPlayTypeEnum();
         Integer num = -1;
-        List<Integer> openNums = Lists.newArrayList();
+        List<Integer> openNums = new ArrayList<>();
         switch (playTypeEnum) {
             case POSITION_ONE:
                 openNums.add(currentNumberArr[4]);
