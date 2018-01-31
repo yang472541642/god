@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="httpFactory" class="com.vision.util.http.HttpFactory" init-method="init">
+        <!--<constructor-arg name="proxyIp" value="${proxyIp}"/>
+        <constructor-arg name="proxyPort" value="${proxyPort}"/>-->
+        <constructor-arg name="socketTimeOut" value="${socketTimeOut}"/>
+        <constructor-arg name="connectTimeOut" value="${connectTimeOut}"/>
+        <constructor-arg name="requestTimeOut" value="${requestTimeOut}"/>
+        <constructor-arg name="BEST_MATCH" value="standard-strict"/>
+    </bean>
+
+    <bean id="tumblrHttpRequestDao" class="com.vision.util.http.util.HttpRequestDao">
+        <constructor-arg ref="httpFactory"/>
+    </bean>
+</beans>

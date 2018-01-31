@@ -1,0 +1,1293 @@
+{
+  "sumYeild": 2737.0,
+  "currentLinkError": 0,
+  "loginStatus": true,
+  "pageSize": 5,
+  "errorCount": 1,
+  "expressionNotLookBool": null,
+  "nowExpression": 89,
+  "currentLinkSuccess": 6,
+  "maxSuccess": 34,
+  "expressionName": [
+    {
+      "profit": 2737.0,
+      "curBool": true,
+      "jhfaCode": "ssc022",
+      "currentError": 0,
+      "currentCorrect": 6,
+      "winRate": 97.56,
+      "errorCount": 1,
+      "jhfaName": "斗鱼计划",
+      "maxCorrent": 34
+    },
+    {
+      "profit": 2048.0,
+      "curBool": false,
+      "jhfaCode": "ssc029",
+      "currentError": 0,
+      "currentCorrect": 17,
+      "winRate": 95.12,
+      "errorCount": 2,
+      "jhfaName": "彩虹计划",
+      "maxCorrent": 18
+    },
+    {
+      "profit": 1886.0,
+      "curBool": false,
+      "jhfaCode": "ssc031",
+      "currentError": 0,
+      "currentCorrect": 9,
+      "winRate": 94.59,
+      "errorCount": 2,
+      "jhfaName": "预言计划",
+      "maxCorrent": 18
+    },
+    {
+      "profit": 1845.0,
+      "curBool": false,
+      "jhfaCode": "ssc026",
+      "currentError": 0,
+      "currentCorrect": 17,
+      "winRate": 94.87,
+      "errorCount": 2,
+      "jhfaName": "射手计划",
+      "maxCorrent": 20
+    },
+    {
+      "profit": 1635.0,
+      "curBool": false,
+      "jhfaCode": "ssc015",
+      "currentError": 0,
+      "currentCorrect": 2,
+      "winRate": 93.02,
+      "errorCount": 3,
+      "jhfaName": "熊猫计划",
+      "maxCorrent": 26
+    },
+    {
+      "profit": 1590.0,
+      "curBool": false,
+      "jhfaCode": "ssc033",
+      "currentError": 0,
+      "currentCorrect": 30,
+      "winRate": 94.74,
+      "errorCount": 2,
+      "jhfaName": "时光计划",
+      "maxCorrent": 30
+    },
+    {
+      "profit": 1359.0,
+      "curBool": false,
+      "jhfaCode": "ssc020",
+      "currentError": 0,
+      "currentCorrect": 17,
+      "winRate": 92.68,
+      "errorCount": 3,
+      "jhfaName": "必中计划",
+      "maxCorrent": 17
+    },
+    {
+      "profit": 933.0,
+      "curBool": false,
+      "jhfaCode": "ssc010",
+      "currentError": 0,
+      "currentCorrect": 3,
+      "winRate": 92.86,
+      "errorCount": 3,
+      "jhfaName": "红中计划",
+      "maxCorrent": 25
+    },
+    {
+      "profit": 872.0,
+      "curBool": false,
+      "jhfaCode": "ssc011",
+      "currentError": 0,
+      "currentCorrect": 12,
+      "winRate": 91.67,
+      "errorCount": 3,
+      "jhfaName": "小米计划",
+      "maxCorrent": 12
+    },
+    {
+      "profit": 791.0,
+      "curBool": false,
+      "jhfaCode": "ssc006",
+      "currentError": 0,
+      "currentCorrect": 14,
+      "winRate": 91.43,
+      "errorCount": 3,
+      "jhfaName": "王者计划",
+      "maxCorrent": 14
+    },
+    {
+      "profit": 791.0,
+      "curBool": false,
+      "jhfaCode": "ssc009",
+      "currentError": 0,
+      "currentCorrect": 11,
+      "winRate": 91.43,
+      "errorCount": 3,
+      "jhfaName": "黄金计划",
+      "maxCorrent": 12
+    },
+    {
+      "profit": 775.0,
+      "curBool": false,
+      "jhfaCode": "ssc018",
+      "currentError": 0,
+      "currentCorrect": 2,
+      "winRate": 90.91,
+      "errorCount": 3,
+      "jhfaName": "喵喵计划",
+      "maxCorrent": 20
+    },
+    {
+      "profit": 694.0,
+      "curBool": false,
+      "jhfaCode": "ssc028",
+      "currentError": 0,
+      "currentCorrect": 5,
+      "winRate": 90.91,
+      "errorCount": 4,
+      "jhfaName": "轩辕计划",
+      "maxCorrent": 18
+    },
+    {
+      "profit": 617.0,
+      "curBool": false,
+      "jhfaCode": "ssc032",
+      "currentError": 0,
+      "currentCorrect": 1,
+      "winRate": 91.43,
+      "errorCount": 3,
+      "jhfaName": "柯南计划",
+      "maxCorrent": 13
+    },
+    {
+      "profit": 580.0,
+      "curBool": false,
+      "jhfaCode": "ssc017",
+      "currentError": 0,
+      "currentCorrect": 7,
+      "winRate": 90.62,
+      "errorCount": 3,
+      "jhfaName": "彩客计划",
+      "maxCorrent": 16
+    },
+    {
+      "profit": 467.0,
+      "curBool": false,
+      "jhfaCode": "ssc038",
+      "currentError": 1,
+      "currentCorrect": 0,
+      "winRate": 89.74,
+      "errorCount": 4,
+      "jhfaName": "绿萝计划",
+      "maxCorrent": 16
+    },
+    {
+      "profit": 305.0,
+      "curBool": false,
+      "jhfaCode": "ssc037",
+      "currentError": 0,
+      "currentCorrect": 7,
+      "winRate": 88.57,
+      "errorCount": 4,
+      "jhfaName": "宰相计划",
+      "maxCorrent": 17
+    },
+    {
+      "profit": 248.0,
+      "curBool": false,
+      "jhfaCode": "ssc004",
+      "currentError": 0,
+      "currentCorrect": 2,
+      "winRate": 89.19,
+      "errorCount": 4,
+      "jhfaName": "将军计划",
+      "maxCorrent": 19
+    },
+    {
+      "profit": 248.0,
+      "curBool": false,
+      "jhfaCode": "ssc040",
+      "currentError": 0,
+      "currentCorrect": 1,
+      "winRate": 89.19,
+      "errorCount": 4,
+      "jhfaName": "锦里计划",
+      "maxCorrent": 15
+    },
+    {
+      "profit": 199.0,
+      "curBool": false,
+      "jhfaCode": "ssc013",
+      "currentError": 0,
+      "currentCorrect": 8,
+      "winRate": 89.47,
+      "errorCount": 4,
+      "jhfaName": "必赢计划",
+      "maxCorrent": 8
+    },
+    {
+      "profit": 118.0,
+      "curBool": false,
+      "jhfaCode": "ssc007",
+      "currentError": 0,
+      "currentCorrect": 7,
+      "winRate": 89.19,
+      "errorCount": 4,
+      "jhfaName": "亮剑计划",
+      "maxCorrent": 13
+    },
+    {
+      "profit": -12.0,
+      "curBool": false,
+      "jhfaCode": "ssc034",
+      "currentError": 0,
+      "currentCorrect": 14,
+      "winRate": 89.19,
+      "errorCount": 4,
+      "jhfaName": "点点计划",
+      "maxCorrent": 14
+    },
+    {
+      "profit": -194.0,
+      "curBool": false,
+      "jhfaCode": "ssc008",
+      "currentError": 0,
+      "currentCorrect": 11,
+      "winRate": 88.89,
+      "errorCount": 4,
+      "jhfaName": "顽主计划",
+      "maxCorrent": 11
+    },
+    {
+      "profit": -409.0,
+      "curBool": false,
+      "jhfaCode": "ssc005",
+      "currentError": 0,
+      "currentCorrect": 3,
+      "winRate": 87.8,
+      "errorCount": 5,
+      "jhfaName": "易算计划",
+      "maxCorrent": 24
+    },
+    {
+      "profit": -644.0,
+      "curBool": false,
+      "jhfaCode": "ssc035",
+      "currentError": 0,
+      "currentCorrect": 6,
+      "winRate": 85.71,
+      "errorCount": 5,
+      "jhfaName": "硬汉计划",
+      "maxCorrent": 7
+    },
+    {
+      "profit": -725.0,
+      "curBool": false,
+      "jhfaCode": "ssc016",
+      "currentError": 0,
+      "currentCorrect": 1,
+      "winRate": 85.29,
+      "errorCount": 5,
+      "jhfaName": "火柴计划",
+      "maxCorrent": 17
+    },
+    {
+      "profit": -839.0,
+      "curBool": false,
+      "jhfaCode": "ssc019",
+      "currentError": 0,
+      "currentCorrect": 4,
+      "winRate": 86.11,
+      "errorCount": 5,
+      "jhfaName": "王牌计划",
+      "maxCorrent": 12
+    },
+    {
+      "profit": -1042.0,
+      "curBool": false,
+      "jhfaCode": "ssc024",
+      "currentError": 0,
+      "currentCorrect": 3,
+      "winRate": 85.29,
+      "errorCount": 5,
+      "jhfaName": "猎人计划",
+      "maxCorrent": 12
+    },
+    {
+      "profit": -1398.0,
+      "curBool": false,
+      "jhfaCode": "ssc021",
+      "currentError": 0,
+      "currentCorrect": 7,
+      "winRate": 83.33,
+      "errorCount": 6,
+      "jhfaName": "龙珠计划",
+      "maxCorrent": 9
+    },
+    {
+      "profit": -1455.0,
+      "curBool": false,
+      "jhfaCode": "ssc012",
+      "currentError": 0,
+      "currentCorrect": 5,
+      "winRate": 83.33,
+      "errorCount": 6,
+      "jhfaName": "澳客计划",
+      "maxCorrent": 16
+    },
+    {
+      "profit": -1520.0,
+      "curBool": false,
+      "jhfaCode": "ssc023",
+      "currentError": 0,
+      "currentCorrect": 4,
+      "winRate": 83.78,
+      "errorCount": 6,
+      "jhfaName": "老炮计划",
+      "maxCorrent": 8
+    },
+    {
+      "profit": -1536.0,
+      "curBool": false,
+      "jhfaCode": "ssc025",
+      "currentError": 1,
+      "currentCorrect": 0,
+      "winRate": 82.86,
+      "errorCount": 6,
+      "jhfaName": "酒桶计划",
+      "maxCorrent": 12
+    },
+    {
+      "profit": -1536.0,
+      "curBool": false,
+      "jhfaCode": "ssc027",
+      "currentError": 0,
+      "currentCorrect": 16,
+      "winRate": 82.86,
+      "errorCount": 6,
+      "jhfaName": "帝国计划",
+      "maxCorrent": 16
+    },
+    {
+      "profit": -1544.0,
+      "curBool": false,
+      "jhfaCode": "ssc030",
+      "currentError": 0,
+      "currentCorrect": 7,
+      "winRate": 82.35,
+      "errorCount": 6,
+      "jhfaName": "天使计划",
+      "maxCorrent": 7
+    },
+    {
+      "profit": -1702.0,
+      "curBool": false,
+      "jhfaCode": "ssc002",
+      "currentError": 0,
+      "currentCorrect": 5,
+      "winRate": 83.33,
+      "errorCount": 6,
+      "jhfaName": "司令计划",
+      "maxCorrent": 17
+    },
+    {
+      "profit": -2015.0,
+      "curBool": false,
+      "jhfaCode": "ssc001",
+      "currentError": 0,
+      "currentCorrect": 5,
+      "winRate": 80.65,
+      "errorCount": 6,
+      "jhfaName": "周易计划",
+      "maxCorrent": 11
+    },
+    {
+      "profit": -2485.0,
+      "curBool": false,
+      "jhfaCode": "ssc003",
+      "currentError": 0,
+      "currentCorrect": 4,
+      "winRate": 80.0,
+      "errorCount": 7,
+      "jhfaName": "貔貅计划",
+      "maxCorrent": 10
+    },
+    {
+      "profit": -2675.0,
+      "curBool": false,
+      "jhfaCode": "ssc036",
+      "currentError": 0,
+      "currentCorrect": 2,
+      "winRate": 78.79,
+      "errorCount": 7,
+      "jhfaName": "大圣计划",
+      "maxCorrent": 14
+    },
+    {
+      "profit": -3247.0,
+      "curBool": false,
+      "jhfaCode": "ssc014",
+      "currentError": 0,
+      "currentCorrect": 2,
+      "winRate": 75.76,
+      "errorCount": 8,
+      "jhfaName": "豆豆计划",
+      "maxCorrent": 9
+    },
+    {
+      "profit": -3328.0,
+      "curBool": false,
+      "jhfaCode": "ssc039",
+      "currentError": 0,
+      "currentCorrect": 2,
+      "winRate": 75.0,
+      "errorCount": 8,
+      "jhfaName": "御风计划",
+      "maxCorrent": 6
+    }
+  ],
+  "correctPercent": 97.56,
+  "btjsResultList": [
+    {
+      "item": 3,
+      "times": "42",
+      "currentAmount": "420.0",
+      "sumAmount": "680.0",
+      "currentBonus": "819.00",
+      "sumBonus": "139.00",
+      "sumYeild": "139.00",
+      "yeildRate": "20.44%"
+    },
+    {
+      "item": 2,
+      "times": "16",
+      "currentAmount": "160.0",
+      "sumAmount": "260.0",
+      "currentBonus": "312.00",
+      "sumBonus": "52.00",
+      "sumYeild": "52.00",
+      "yeildRate": "20.00%"
+    },
+    {
+      "item": 1,
+      "times": "10",
+      "currentAmount": "100.0",
+      "sumAmount": "100.0",
+      "currentBonus": "195.00",
+      "sumBonus": "95.00",
+      "sumYeild": "95.00",
+      "yeildRate": "95.00%"
+    }
+  ],
+  "resultList": [
+    {
+      "item": "063-065",
+      "wei": "万位",
+      "planNum": "38652",
+      "resultNumber": "8,9,1,8,2",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110064,
+          "result": "8,9,1,8,2"
+        },
+        {
+          "period": 20171110063,
+          "result": "4,8,1,4,6"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "062-064",
+      "wei": "万位",
+      "planNum": "79386",
+      "resultNumber": "3,1,9,0,5",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110062,
+          "result": "3,1,9,0,5"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "060-062",
+      "wei": "万位",
+      "planNum": "63851",
+      "resultNumber": "8,8,0,9,3",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110061,
+          "result": "8,8,0,9,3"
+        },
+        {
+          "period": 20171110060,
+          "result": "4,2,7,2,9"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "059-061",
+      "wei": "万位",
+      "planNum": "89367",
+      "resultNumber": "6,2,4,1,3",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110059,
+          "result": "6,2,4,1,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "058-060",
+      "wei": "万位",
+      "planNum": "94386",
+      "resultNumber": "9,2,0,8,3",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110058,
+          "result": "9,2,0,8,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "056-058",
+      "wei": "万位",
+      "planNum": "92386",
+      "resultNumber": "9,0,5,3,8",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110057,
+          "result": "9,0,5,3,8"
+        },
+        {
+          "period": 20171110056,
+          "result": "4,7,9,0,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "053-055",
+      "wei": "万位",
+      "planNum": "38652",
+      "resultNumber": "无",
+      "status": false,
+      "planName": null,
+      "itemIndex": 4,
+      "amount": -680.0,
+      "caipiaoList": [
+        {
+          "period": 20171110055,
+          "result": "9,2,3,7,0"
+        },
+        {
+          "period": 20171110054,
+          "result": "4,3,0,3,4"
+        },
+        {
+          "period": 20171110053,
+          "result": "7,4,1,0,7"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "052-054",
+      "wei": "万位",
+      "planNum": "70385",
+      "resultNumber": "3,3,9,1,0",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110052,
+          "result": "3,3,9,1,0"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "050-052",
+      "wei": "万位",
+      "planNum": "72385",
+      "resultNumber": "7,1,1,3,0",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110051,
+          "result": "7,1,1,3,0"
+        },
+        {
+          "period": 20171110050,
+          "result": "6,1,7,0,1"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "048-050",
+      "wei": "万位",
+      "planNum": "97386",
+      "resultNumber": "7,3,3,6,7",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110049,
+          "result": "7,3,3,6,7"
+        },
+        {
+          "period": 20171110048,
+          "result": "5,9,4,8,7"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "046-048",
+      "wei": "万位",
+      "planNum": "93825",
+      "resultNumber": "9,7,8,1,3",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110047,
+          "result": "9,7,8,1,3"
+        },
+        {
+          "period": 20171110046,
+          "result": "1,7,2,0,2"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "045-047",
+      "wei": "万位",
+      "planNum": "23810",
+      "resultNumber": "1,8,0,9,2",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110045,
+          "result": "1,8,0,9,2"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "044-046",
+      "wei": "万位",
+      "planNum": "32865",
+      "resultNumber": "2,9,4,8,3",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110044,
+          "result": "2,9,4,8,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "043-045",
+      "wei": "万位",
+      "planNum": "79386",
+      "resultNumber": "3,7,3,3,4",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110043,
+          "result": "3,7,3,3,4"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "042-044",
+      "wei": "万位",
+      "planNum": "45382",
+      "resultNumber": "8,6,0,6,3",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110042,
+          "result": "8,6,0,6,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "041-043",
+      "wei": "万位",
+      "planNum": "87364",
+      "resultNumber": "4,9,6,2,4",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110041,
+          "result": "4,9,6,2,4"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "039-041",
+      "wei": "万位",
+      "planNum": "30865",
+      "resultNumber": "8,1,8,5,9",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110040,
+          "result": "8,1,8,5,9"
+        },
+        {
+          "period": 20171110039,
+          "result": "9,4,9,0,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "038-040",
+      "wei": "万位",
+      "planNum": "29386",
+      "resultNumber": "3,3,1,3,5",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110038,
+          "result": "3,3,1,3,5"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "037-039",
+      "wei": "万位",
+      "planNum": "30865",
+      "resultNumber": "3,8,0,2,1",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110037,
+          "result": "3,8,0,2,1"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "035-037",
+      "wei": "万位",
+      "planNum": "79386",
+      "resultNumber": "3,0,1,1,8",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110036,
+          "result": "3,0,1,1,8"
+        },
+        {
+          "period": 20171110035,
+          "result": "4,4,5,0,2"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "034-036",
+      "wei": "万位",
+      "planNum": "16382",
+      "resultNumber": "8,9,0,6,2",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110034,
+          "result": "8,9,0,6,2"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "033-035",
+      "wei": "万位",
+      "planNum": "81364",
+      "resultNumber": "1,4,7,1,8",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110033,
+          "result": "1,4,7,1,8"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "032-034",
+      "wei": "万位",
+      "planNum": "38652",
+      "resultNumber": "8,3,2,5,9",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110032,
+          "result": "8,3,2,5,9"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "030-032",
+      "wei": "万位",
+      "planNum": "87364",
+      "resultNumber": "3,3,9,8,1",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110031,
+          "result": "3,3,9,8,1"
+        },
+        {
+          "period": 20171110030,
+          "result": "9,1,6,4,7"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "028-030",
+      "wei": "万位",
+      "planNum": "35862",
+      "resultNumber": "8,3,8,4,8",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110029,
+          "result": "8,3,8,4,8"
+        },
+        {
+          "period": 20171110028,
+          "result": "0,8,7,2,7"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "026-028",
+      "wei": "万位",
+      "planNum": "20381",
+      "resultNumber": "3,0,6,0,6",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110027,
+          "result": "3,0,6,0,6"
+        },
+        {
+          "period": 20171110026,
+          "result": "5,8,4,7,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "025-027",
+      "wei": "万位",
+      "planNum": "06182",
+      "resultNumber": "2,9,1,7,1",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110025,
+          "result": "2,9,1,7,1"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "024-026",
+      "wei": "万位",
+      "planNum": "28310",
+      "resultNumber": "0,6,0,8,8",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110024,
+          "result": "0,6,0,8,8"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "021-023",
+      "wei": "万位",
+      "planNum": "32865",
+      "resultNumber": "2,4,9,5,8",
+      "status": true,
+      "planName": null,
+      "itemIndex": 2,
+      "amount": 139.0,
+      "caipiaoList": [
+        {
+          "period": 20171110023,
+          "result": "2,4,9,5,8"
+        },
+        {
+          "period": 20171110022,
+          "result": "1,4,7,1,5"
+        },
+        {
+          "period": 20171110021,
+          "result": "9,8,8,5,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "020-022",
+      "wei": "万位",
+      "planNum": "56384",
+      "resultNumber": "3,5,3,0,9",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110020,
+          "result": "3,5,3,0,9"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "018-020",
+      "wei": "万位",
+      "planNum": "31865",
+      "resultNumber": "5,6,7,1,0",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110019,
+          "result": "5,6,7,1,0"
+        },
+        {
+          "period": 20171110018,
+          "result": "2,0,0,1,3"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "017-019",
+      "wei": "万位",
+      "planNum": "26381",
+      "resultNumber": "3,1,2,8,5",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110017,
+          "result": "3,1,2,8,5"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "015-017",
+      "wei": "万位",
+      "planNum": "23810",
+      "resultNumber": "2,9,7,8,4",
+      "status": true,
+      "planName": null,
+      "itemIndex": 1,
+      "amount": 52.0,
+      "caipiaoList": [
+        {
+          "period": 20171110016,
+          "result": "2,9,7,8,4"
+        },
+        {
+          "period": 20171110015,
+          "result": "5,7,2,3,1"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "012-014",
+      "wei": "万位",
+      "planNum": "21380",
+      "resultNumber": "2,1,4,2,1",
+      "status": true,
+      "planName": null,
+      "itemIndex": 2,
+      "amount": 139.0,
+      "caipiaoList": [
+        {
+          "period": 20171110014,
+          "result": "2,1,4,2,1"
+        },
+        {
+          "period": 20171110013,
+          "result": "4,7,4,3,6"
+        },
+        {
+          "period": 20171110012,
+          "result": "4,4,6,5,2"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "011-013",
+      "wei": "万位",
+      "planNum": "32865",
+      "resultNumber": "2,7,2,7,0",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110011,
+          "result": "2,7,2,7,0"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "008-010",
+      "wei": "万位",
+      "planNum": "15382",
+      "resultNumber": "3,0,3,5,2",
+      "status": true,
+      "planName": null,
+      "itemIndex": 2,
+      "amount": 139.0,
+      "caipiaoList": [
+        {
+          "period": 20171110010,
+          "result": "3,0,3,5,2"
+        },
+        {
+          "period": 20171110009,
+          "result": "9,7,7,1,3"
+        },
+        {
+          "period": 20171110008,
+          "result": "0,6,8,6,9"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "007-009",
+      "wei": "万位",
+      "planNum": "83201",
+      "resultNumber": "1,4,6,6,4",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110007,
+          "result": "1,4,6,6,4"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "006-008",
+      "wei": "万位",
+      "planNum": "10382",
+      "resultNumber": "0,2,9,7,0",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110006,
+          "result": "0,2,9,7,0"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "005-007",
+      "wei": "万位",
+      "planNum": "23810",
+      "resultNumber": "1,6,1,0,9",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110005,
+          "result": "1,6,1,0,9"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "002-004",
+      "wei": "万位",
+      "planNum": "92386",
+      "resultNumber": "2,6,4,7,1",
+      "status": true,
+      "planName": null,
+      "itemIndex": 2,
+      "amount": 139.0,
+      "caipiaoList": [
+        {
+          "period": 20171110004,
+          "result": "2,6,4,7,1"
+        },
+        {
+          "period": 20171110003,
+          "result": "0,0,6,3,4"
+        },
+        {
+          "period": 20171110002,
+          "result": "0,5,0,7,4"
+        }
+      ],
+      "hotColdSubList": null
+    },
+    {
+      "item": "001-003",
+      "wei": "万位",
+      "planNum": "96387",
+      "resultNumber": "9,8,3,8,4",
+      "status": true,
+      "planName": null,
+      "itemIndex": 0,
+      "amount": 95.0,
+      "caipiaoList": [
+        {
+          "period": 20171110001,
+          "result": "9,8,3,8,4"
+        }
+      ],
+      "hotColdSubList": null
+    }
+  ],
+  "success": true,
+  "firstPlanResult": "80364",
+  "fvList": [
+    {
+      "item": "067",
+      "result": null
+    },
+    {
+      "item": "066",
+      "result": null
+    },
+    {
+      "item": "065",
+      "result": null
+    }
+  ]
+}
