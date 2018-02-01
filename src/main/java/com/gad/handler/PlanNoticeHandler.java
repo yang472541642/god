@@ -160,26 +160,26 @@ public class PlanNoticeHandler implements Runnable{
             for(int weizhi = 0; weizhi<5; weizhi++) {
                 if(checkIsTheSame(list1, list2, weizhi, 1)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-大");
-                    messageDTO.setContent("位置：" + weizhi + "类型：大");
+                    messageDTO.setSubject("普通");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：大");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsTheSame(list1, list2, weizhi, 2)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-小");
-                    messageDTO.setContent("位置：" + weizhi + "类型：小");
+                    messageDTO.setSubject("普通");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：小");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsTheSame(list1, list2, weizhi, 3)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-单");
-                    messageDTO.setContent("位置：" + weizhi + "类型：单");
+                    messageDTO.setSubject("普通");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：单");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsTheSame(list1, list2, weizhi, 4)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-双");
-                    messageDTO.setContent("位置：" + weizhi + "类型：双");
+                    messageDTO.setSubject("普通");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：双");
                     noticeService.notice(messageDTO);
                 }
             }
@@ -198,26 +198,26 @@ public class PlanNoticeHandler implements Runnable{
             for(int weizhi = 0; weizhi<5; weizhi++) {
                 if(checkIsCanCheckIn(list1, list2, list3, weizhi, 1)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "关键点预警" + num + ","+ weizhi + "-关键点出现");
-                    messageDTO.setContent("位置：" + weizhi + "类型：大");
+                    messageDTO.setSubject("关键点");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：大");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsCanCheckIn(list1, list2, list3, weizhi, 2)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "关键点预警" + num + ","+ weizhi + "-关键点出现");
-                    messageDTO.setContent("位置：" + weizhi + "类型：小");
+                    messageDTO.setSubject("关键点");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：小");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsCanCheckIn(list1, list2, list3, weizhi, 3)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "关键点预警" + num + ","+ weizhi + "-关键点出现");
-                    messageDTO.setContent("位置：" + weizhi + "类型：单");
+                    messageDTO.setSubject("关键点");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：单");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsCanCheckIn(list1, list2, list3, weizhi, 4)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "关键点预警" + num + ","+ weizhi + "-关键点出现");
-                    messageDTO.setContent("位置：" + weizhi + "类型：双");
+                    messageDTO.setSubject("关键点");
+                    messageDTO.setContent(nextStr + "位置：" + weizhi + "类型：双");
                     noticeService.notice(messageDTO);
                 }
             }
