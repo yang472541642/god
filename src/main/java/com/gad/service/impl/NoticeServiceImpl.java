@@ -38,6 +38,10 @@ public class NoticeServiceImpl implements NoticeService {
         message.setFrom(fromUserName);
         message.setSubject(messageDTO.getSubject());
         message.setText(messageDTO.getContent());
-        mailSender.send(message);
+        try {
+            mailSender.send(message);
+        } catch (Exception e) {
+            logger.error("邮件发送发送异常：{}", e);
+        }
     }
 }
