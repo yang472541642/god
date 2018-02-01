@@ -160,25 +160,25 @@ public class PlanNoticeHandler implements Runnable{
             for(int weizhi = 0; weizhi<5; weizhi++) {
                 if(checkIsTheSame(list1, list2, weizhi, 1)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出预警" + num + ","+ weizhi + "-异常大");
+                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-大");
                     messageDTO.setContent("位置：" + weizhi + "类型：大");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsTheSame(list1, list2, weizhi, 2)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出预警" + num + ","+ weizhi + "-异常小");
+                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-小");
                     messageDTO.setContent("位置：" + weizhi + "类型：小");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsTheSame(list1, list2, weizhi, 3)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出预警" + num + ","+ weizhi + "-异常单");
+                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-单");
                     messageDTO.setContent("位置：" + weizhi + "类型：单");
                     noticeService.notice(messageDTO);
                 }
                 if(checkIsTheSame(list1, list2, weizhi, 4)) {
                     MessageDTO messageDTO = new MessageDTO();
-                    messageDTO.setSubject(nextStr + "连出预警" + num + ","+ weizhi + "-异常双");
+                    messageDTO.setSubject(nextStr + "连出" + num + ","+ weizhi + "-双");
                     messageDTO.setContent("位置：" + weizhi + "类型：双");
                     noticeService.notice(messageDTO);
                 }
