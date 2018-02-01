@@ -1,5 +1,6 @@
 package com.gad.handler;
 
+import com.alibaba.fastjson.JSON;
 import com.gad.common.MoneyTypeEnum;
 import com.gad.domin.AutoPay;
 import com.gad.domin.PlayTypeEnum;
@@ -92,6 +93,7 @@ public class PlanNoticeHandler implements Runnable{
                 List<String> list = new ArrayList<>();
                 SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd");//设置日期格式
                 cpxzsBizService.getHistoryNumber(df.format(new Date()), list);
+                logger.info("date:{},history:{}", new Date(), JSON.toJSONString(list));
                 if(list.size() < 6) {
                     continue;
                 }
