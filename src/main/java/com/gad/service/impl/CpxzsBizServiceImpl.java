@@ -119,6 +119,7 @@ public class CpxzsBizServiceImpl implements CpxzsBizService {
                     .getResponseContent();
         } catch (IOException e) {
             logger.error("获取中心信息失败！");
+            return new ArrayList<>();
         }
         Document document = Jsoup.parse(content);
         Elements elements1 = document.select("table").select("tr");
